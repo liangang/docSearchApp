@@ -1,0 +1,28 @@
+/* 
+  imdSearch_ch.strings
+  imdSearch
+
+  Created by xiangzhang on 3/18/14.
+  Copyright (c) 2014 i-md.com. All rights reserved.
+*/
+
+"docType_all"="所有文献";
+"docType_ch"="中文文献";
+"docType_en"="英文文献";
+"myDocument"="我的文献";
+"cancel_btn"="取消";
+"tab_setting"="帐户设置";
+"tab_myDoc"="我的文献";
+
+//user setting string
+"setting_loginAccount"="登录到我的帐户";
+"setting_logon"="退出登录";
+"setting_inviteUser"="邀好友注册 赢文献VIP服务";
+"setting_wifi"="仅在Wi-Fi网络下载全文";
+"setting_docNotification"="开启文献索取通知";
+"setting_clearCaBuffer"="清除缓存";
+"setting_feedback"="建议反馈";
+"setting_aboutUs"="关于我们";
+"setting_commit"="去App Store评个分";
+"setting_disclaimer"="免责声明";
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CN_KEY</key>
+	<array>
+		<string>TITLE</string>
+		<string>ABSTRACT</string>
+		<string>KEYWORD</string>
+		<string>JOURNAL</string>
+		<string>AUTHOR</string>
+		<string>AFFILIATION</string>
+		<string>GRANT</string>
+	</array>
+	<key>CN_TEXT</key>
+	<array>
+		<string>标题</string>
+		<string>摘要</string>
+		<string>关键词</string>
+		<string>刊名</string>
+		<string>作者</string>
+		<string>作者单位</string>
+		<string>资助</string>
+	</array>
+	<key>EN_KEY</key>
+	<array>
+		<string>TITLE</string>
+		<string>ABSTRACT</string>
+		<string>KEYWORD</string>
+		<string>JOURNAL</string>
+		<string>AUTHOR</string>
+		<string>FIRST_AUTHOR</string>
+		<string>AFFILIATION</string>
+		<string>GRANT</string>
+		<string>ALL_FIELDS</string>
+		<string>PUBLICATION_TYPE</string>
+	</array>
+	<key>EN_TEXT</key>
+	<array>
+		<string>Title(标题)</string>
+		<string>Abstract(摘要)</string>
+		<string>MeSH(主题词)</string>
+		<string>Journal(期刊)</string>
+		<string>Author(作者)</string>
+		<string>First Author(第一作者)</string>
+		<string>Affiliation(作者单位)</string>
+		<string>Grant(资助)</string>
+		<string>All Fields(所有字段)</string>
+		<string>Publication Type(文献类型)</string>
+	</array>
+</dict>
+</plist>

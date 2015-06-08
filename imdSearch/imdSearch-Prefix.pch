@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'imdSearch' target in the 'imdSearch' project
+//
+
+#import <Availability.h>
+//#import "macroHeader.h"
+#import "CommonMacro.h"
+#import "systemVersion.h"
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+//remove nslog for release version
+
+#ifndef __OPTIMIZE__
+#    define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#    define NSLog(...) {}
+#endif
+
